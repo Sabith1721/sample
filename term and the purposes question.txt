@@ -1,0 +1,15 @@
+1. Familiarize yourself with these terms and explain why this terms are used it in github.
+  (what is this term and the purpose)
+	- commit
+	- full request
+	- conflix 
+	- branch
+	- merge branch
+	- review
+	- issues
+	- milestone
+	- github pages
+	- ci/cd or github action
+	- work flow
+	- project board
+	- labels
